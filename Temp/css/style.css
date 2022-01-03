@@ -67,11 +67,11 @@ body{
 	font-size: 15px;
 	color: #6A6A6A;
 	background: #fff;
-	min-height: 100vh;
+	/* min-height: 100vh;
 	background-size: cover;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: center; */
 }
 
 h1, h2, h3{
