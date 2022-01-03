@@ -3521,6 +3521,7 @@ a.close-styler{
 	.page-footer {
 		position: relative;
 		display: block;
+		margin-top: 100px;
 		padding-top: 80px;
 		font-weight: 700;
 		padding-bottom: 16px;
