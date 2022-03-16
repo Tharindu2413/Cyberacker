@@ -29,7 +29,7 @@ body{
 	padding: 0;
 	font-size: 15px;
 	color: #443f3f;
-	background: rgb(255, 255, 255);
+	background: #f4f4f4;
 	/* min-height: 100vh;
 	background-size: cover;
 	display: flex;
@@ -1321,14 +1321,17 @@ ul.navbar-nav > li > a i{
 
 .featured-tab{
 	padding: 30px 0;
+
 }
 
 .featured-tab .nav-tabs{
 	border-bottom: 0;
+
 }
 
 .featured-tab .nav-tabs>li.active>a{
 	color: #fff;
+
 }
 
 /*.featured-tab .nav-tabs>li.active>a:after{
@@ -1366,10 +1369,13 @@ ul.navbar-nav > li > a i{
 	-ms-transition: all 300ms ease;
 	-o-transition: all 300ms ease;
 	transition: all 300ms ease;
+
 }
 
 .featured-tab .nav-tabs>li>a:hover{
 	color: #fff;
+
+
 }
 /*.featured-tab .nav-tabs>li>a:hover:after{
 
@@ -1737,101 +1743,7 @@ figure.effect-oscar:hover img {
 	padding: 15px;
 }
 
-/* Team
-================================================== */
 
-.img-hexagon span {
-    position: absolute;
-    display: block;
-    float:left;
-	border-left: 120px solid #fff;
-	border-right: 120px solid #fff;
-}
-
-.img-top {
-	top: 0;
-	border-top: 0px solid transparent;
- 	border-bottom: 75px solid transparent;
-}
-
-.img-bottom{
-	bottom: 0px;
-	border-bottom: 0px solid transparent;
-	border-top: 75px solid transparent;
-}
-
-.img-hexagon {
-    width: 240px;
-    height: 250px;
-    position: relative;
-    display: inline-block;
-}
-.img-hexagon img{
-	width: 100%;
-	height: 100%;
-}
-
-
-.team-content h3{
-	margin-bottom: 0;
-	font-size: 20px;
-}
-
-.team-content p{
-	color: #959595;
-}
-
-.team-social a{
-	background: #d5d5d5;
-	color: #fff;
-	width: 28px;
-	height: 28px;
-	line-height: 28px;
-	border-radius: 100%;
-	display: inline-block;
-	text-align: center;
-	-moz-transition: all 300ms ease;
-	-webkit-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
-	-o-transition: all 300ms ease;
-	transition: all 300ms ease;
-}
-
-.team-social a.fb:hover{
-	background: #325c94;
-}
-
-.team-social a.twt:hover{
-	background: #00abdc;
-}
-
-.team-social a.gplus:hover{
-	background: #dd4b39;
-}
-
-.team-social a.linkdin:hover{
-	background: #007bb6;
-}
-
-.team-social a.dribble:hover{
-	background: #ea4c89;
-}
-
-
-/* Team list */
-
-.team-list .img-hexagon{
-	float: left;
-	margin-right: 30px;
-}
-
-
-/* Team list square */
-
-.team-list-square .img-square{
-	float: left;
-	margin-right: 30px;
-}
 
 /* Testimonial
 ================================================== */
@@ -3257,7 +3169,7 @@ a.close-styler{
   }
   
   a {
-	color: #ed563b;
+	color: #394af8;
   }
   * {
 	margin: 0;
@@ -3779,18 +3691,18 @@ a.close-styler{
 }
 
 
-/* Color Version 2*/
+/* Color Version 2*/	
 
 .pricing-table-box .pricing-table-box-item .pricing-table-box-item-head.color2 {
-    background-color: #f6653c!important;
+    background-color: #394af8!important;
 }
 
 .pricing-table-box-item-purchase .btn.color2 {
-    background-color: #f6653c!important;
+    background-color: #394af8!important;
 }
 
 .pricing-table-box .pricing-table-box-item .pricing-table-box-item-price.color2 {
-    color: #f6653c!important;
+    color: #0a8e97!important;
 }
 
 @media screen and (max-width: 600px) {
