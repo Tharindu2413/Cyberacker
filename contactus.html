@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from technext.github.io/bizcraft/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 30 Dec 2021 05:11:11 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
@@ -18,12 +17,19 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="icon" href="img/favicon/favicon-32x32.html" type="image/x-icon" />
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.html">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.html">
-	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.html">
+	<link rel="icon" href="/images/favicon-32x32.html" type="image/x-icon" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/favicon-144x144.html">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/favicon-72x72.html">
+	<link rel="apple-touch-icon-precomposed" href="/images/favicon-54x54.html">
 	<link rel="icon" type="image/pngt" href="images/Cyberacker-09.png">
 
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+	<link rel="manifest" href="/images/site.webmanifest">
+	<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
 	<!-- CSS
 	================================================== -->
 	
@@ -49,11 +55,6 @@
 	<!-- Style Swicther -->
 	<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
 
-	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
-    <!--[if lt IE 9]>
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-    <![endif]-->
 
 </head>
 	
@@ -73,25 +74,27 @@
 						</button>
 						<div class="navbar-brand">
 							<a href="index.html">
-								<img class="img-responsivelogo" src="images/Cyberacker-06.png" alt="logo">
+								<img class="img-responsivelogo" src="images/navlogo.png" alt="logo">
 							</a> 
 						</div>                
 					</div><!--/ Logo end -->
 					<nav class="collapse navbar-collapse clearfix" role="navigation">
 						<ul class="nav navbar-nav navbar-right">
 							<li class="dropdown">
-								   <a href="index.html" >Home</a>
+								<a href="index.html" >Home</a>
+						 </li>
+						 <li class="dropdown">
+								<a href="service.html">Services </a>
+						 </li>
+						 <li class="dropdown">
+							 <a href="pricing.html">Pricing </a>
+					  </li>
+						 <li class="dropdown">
+								<a href="aboutus.html" >About Us</i></a>
 							</li>
-							<li class="dropdown">
-								   <a href="service.html">Services </a>
-							</li>
-							<li class="dropdown">
-								   <a href="aboutus.html" >About Us</i></a>
-							   </li>
-							   <li class="dropdown active">
-								<a href="contactus.html">Contact Us </a>  
-							</li>
-							   
+							<li class="dropdown active">
+							 <a href="contactus.html">Contact Us </a>  
+						 </li>
 						   
 						</ul>
 					</nav><!--/ Navigation end -->
@@ -100,7 +103,7 @@
 		</header><!--/ Header end -->
 		
 	<div id="banner-area">
-		<img src="images/banner/banner2.jpg" alt ="" />
+		<img src="images/banner1.png" alt ="banner-image">
 		<div class="parallax-overlay"></div>
 			<!-- Subpage title start -->
 			<div class="banner-title-content">
@@ -108,7 +111,7 @@
 		        	<h2>Contact Us</h2>
 		        	<ul class="breadcrumb">
 			            <li>Home</li>
-			            <li><a href="#"> Contact</a></li>
+			            <li><a href="contactus.html"> Contact</a></li>
 		          	</ul>
 	          	</div>
           	</div><!-- Subpage title end -->
@@ -160,9 +163,10 @@
 		    			<h3>Contact Details</h3>
 			    		<p>Feel free to contact us at anytime using below options. We are here for your service</p>
 			    		<br>
-			    		<p><i class="fa fa-map-marker"></i><a href="#">Colombo, Sri Lanka</a>  </p>
-						<p><i class="fa fa-phone info"></i><a href="tel:+94716513213"> +94 716 513 213</a>  </p>
-						<p><i class="fa fa-envelope-o info"></i> <a href="mailto:info@cyberacker.lk">info@cyberacker.lk</a>  </p>
+			    		<p><i class="cntct fa fa-location-arrow"></i><a href="#">Colombo, Sri Lanka</a>  </p>
+						<p><i class="fa fa-phone"></i><a href="tel:+94716513213">+94 716 513 213</a>  </p>
+			    		<p><i class="fa fa-envelope"></i><a href="mailto:info@cyberacker.lk">info@cyberacker.lk</a>  </p>
+
     				</div>
 	    		</div>
 	    	</div><br>		
@@ -184,19 +188,20 @@
 			<div class="col-sm-6 col-lg-3 py-3">
 			  <h5>Site Map</h5>
 			  <ul class="footer-menu">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="service.html">Services</a></li>
-				<li><a href="aboutus.html">About Us</a></li>
-				<li><a href="contactus.html">Contact Us</a></li>
+				<li><i class="fa fa-plus"><a href="index.html">Home</a></i></li>
+				<li><i class="fa fa-plus"><a href="service.html">Services</a></i></li>
+				<li><i class="fa fa-plus"><a href="pricing.html">Pricing</a></i></li>
+				<li><i class="fa fa-plus"><a href="aboutus.html">About Us</a></i></li>
+				<li><i class="fa fa-plus"><a href="contactus.html">Contact Us</a></i></li>
 			  </ul>
 			</div>
 			<div class="col-sm-6 col-lg-3 py-3">
-			  <h5>Our Clients</h5>
+			  <h5>Our Partners</h5>
 			  <ul class="footer-menu">
-				<li><a href="#">George Steuart & Co.</a></li>
-				<li><a href="#">Citrus</a></li>
+				<li><i class="fa fa-star"><a href="#">Eclipse Motion</a></i></li>
+				<li><i class="fa fa-star"><a href="#">Brand Cubes</a></i></li>
 			  </ul>
-			</div>
+		</div>
 			<div class="col-sm-6 col-lg-3 py-3">
 			  <h5>Contact</h5>
 			  <p class="footer-link mt-2"><i class="fa fa-map-marker"></i> Colombo, Sri Lanka </p>
