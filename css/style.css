@@ -3279,6 +3279,13 @@ a.close-styler{
   .contact-form .send-btn:hover{
 	background: #0582E3;
   }
+
+  @media (max-width: 400px){
+	  .contact-info p{
+		  font-size: 15px;
+	  }
+
+  }
   
   @media screen and (max-width: 950px){
 	.contact-section{
@@ -3657,6 +3664,7 @@ a.close-styler{
  .fa-location-arrow{
 	padding-right: 3px;
 }
+
 
 @media screen and (max-width: 390px) {
 	.fa-location-arrow{
