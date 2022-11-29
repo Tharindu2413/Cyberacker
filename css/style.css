@@ -178,13 +178,13 @@ label {
 }
 
 ::-moz-selection {
-    background: #02d871;
+    background: #057a97;
     color: #fff;
     text-shadow: none;
 }
 
 ::selection {
-    background: #02d871;
+    background: #057a97;
     color: #fff;
     text-shadow: none;
 }
@@ -313,7 +313,7 @@ Back to Top
 }
 
 #back-to-top .top:hover {
-    background: #02d871;
+    background: #057a97;
     color: #ffffff;
     -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
@@ -446,7 +446,7 @@ input:focus {
 Typography
 -----------------------------------------------------------------------*/
 .typo-style1 {
-    border-left: 3px solid #02d871;
+    border-left: 3px solid #057a97;
     padding-left: 20px;
     margin-top: 50px;
     -webkit-border-radius: 6px;
@@ -644,7 +644,7 @@ Blog
     position: absolute;
     left: 0;
     bottom: -1px;
-    background: #02d871;
+    background: #057a97;
     padding: 5px 10px;
     color: #fff;
     z-index: 9;
@@ -691,7 +691,7 @@ Blog
 }
 
 .iq-entry-title a:hover h5 {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-entry-meta {
@@ -710,7 +710,7 @@ Blog
 }
 
 .iq-entry-meta li a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-entry-meta li:last-child {
@@ -771,7 +771,7 @@ blog with white bg
 
 .iq-blog-entry.iq-blockquote.white .iq-entry-title h5 a:hover,
 .iq-blog-entry.iq-blockquote.white .iq-entry-meta a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-blog-entry.iq-blockquote.white .iq-entry-content {
@@ -779,7 +779,7 @@ blog with white bg
 }
 
 .iq-blog-entry.iq-blockquote.white .iq-blog-detail .date {
-    background: #02d871;
+    background: #057a97;
     padding: 6px 15px;
     margin-bottom: 15px;
     display: inline-block;
@@ -787,7 +787,7 @@ blog with white bg
 }
 
 .iq-blog-entry.iq-blockquote.white .iq-blog-detail .tag {
-    background: #02d871;
+    background: #057a97;
     padding: 6px 15px;
     margin-bottom: 15px;
     display: inline-block;
@@ -804,7 +804,7 @@ blog with image
 
 .iq-blog-entry.iq-blockquote.img .iq-entry-title h5 a:hover,
 .iq-blog-entry.iq-blockquote.img .iq-entry-meta a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 /*************************
@@ -812,7 +812,7 @@ blog with Video
 *************************/
 .iq-blog-entry.iq-video .iq-blog-detail .date,
 .iq-blog-entry.iq-video .iq-blog-detail .tag {
-    background: #02d871;
+    background: #057a97;
     color: #ffffff;
     padding: 6px 15px;
     margin-bottom: 15px;
@@ -840,8 +840,8 @@ blog with Video
 
 .pagination-box .page-item:hover .page-link,
 .pagination-box .page-item.active .page-link {
-    background-color: #02d871;
-    border-color: #02d871;
+    background-color: #057a97;
+    border-color: #057a97;
     color: #ffffff;
 }
 
@@ -878,7 +878,7 @@ Blog - SideBar
 
 .iq-blog-entry .tag,
 .iq-blog-entry .date {
-    background: #02d871;
+    background: #057a97;
     color: #ffffff;
     padding: 6px 15px;
     display: inline-block;
@@ -937,14 +937,14 @@ Blog - SideBar
 .iq-sidebar-widget .iq-widget-search i {
     position: absolute;
     right: 8px;
-    color: #02d871;
+    color: #057a97;
     cursor: pointer;
     padding: 16px 12px;
     font-size: 18px;
 }
 
 .iq-sidebar-widget .iq-widget-search input:focus {
-    border-color: #02d871;
+    border-color: #057a97;
 }
 
 /*SideBar - Posts*/
@@ -960,7 +960,7 @@ Blog - SideBar
 }
 
 .iq-sidebar-widget .iq-recent-post .media-body>a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget .iq-recent-post .media-body span {
@@ -978,7 +978,7 @@ Blog - SideBar
 }
 
 .iq-widget-archives li a {
-    color: #666;
+    color: rgb(102, 102, 102);
 }
 
 .iq-widget-archives li a i {
@@ -988,7 +988,7 @@ Blog - SideBar
 
 .iq-widget-archives li a:hover {
     margin-left: 5px;
-    color: #02d871;
+    color: #057a97;
 }
 
 /*widget-menu*/
@@ -1017,7 +1017,7 @@ Blog - SideBar
 
 .iq-sidebar-widget ul li a span:hover {
     text-decoration: none;
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget ul li.active {
@@ -1025,12 +1025,12 @@ Blog - SideBar
 }
 
 .iq-sidebar-widget ul li.hover a {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget ul li.hover a span {
     background: transparent;
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget ul ul li a span {
@@ -1038,7 +1038,7 @@ Blog - SideBar
 }
 
 .iq-sidebar-widget ul ul li a span:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget ul ul {
@@ -1053,7 +1053,7 @@ Blog - SideBar
 }
 
 .iq-sidebar-widget ul ul a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-sidebar-widget ul li.active i {
@@ -1076,7 +1076,7 @@ Blog - SideBar
 }
 
 .iq-sidebar-widget ul.iq-tag li a:hover {
-    background: #02d871;
+    background: #057a97;
     color: #ffffff;
 }
 
@@ -1166,7 +1166,7 @@ Blog - SideBar
 
 .blog-contact .contact-form .section-field input:focus,
 .blog-contact .contact-form .section-field.textarea textarea:focus {
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
     box-shadow: none;
     outline: none;
 }
@@ -1247,7 +1247,7 @@ Owl Carousel Arrows
 }
 
 .owl-carousel.arrow-1 .owl-nav i:hover {
-    background: #02d871;
+    background: #057a97;
 }
 
 .owl-carousel.arrow-1 .owl-nav .owl-prev {
@@ -1285,7 +1285,7 @@ Owl Carousel Arrows
 
 .owl-carousel.arrow-2 .owl-nav i {
     background: #ffffff;
-    color: #02d871;
+    color: #057a97;
     border: 1px solid #e3e3e3;
     font-size: 20px;
     width: 44px;
@@ -1307,9 +1307,9 @@ Owl Carousel Arrows
 }
 
 .owl-carousel.arrow-2 .owl-nav i:hover {
-    background: #02d871;
+    background: #057a97;
     color: #fff;
-    border-color: #02d871;
+    border-color: #057a97;
 }
 
 .owl-carousel.arrow-2 .owl-nav .owl-prev {
@@ -1365,7 +1365,7 @@ Owl Carousel Arrows
 
 .owl-carousel.arrow-3 .owl-prev:hover i,
 .owl-carousel.arrow-3 .owl-next:hover i {
-    color: #02d871;
+    color: #057a97;
 }
 
 .owl-carousel.arrow-3 .owl-prev .fa-angle-left:before {
@@ -1404,9 +1404,9 @@ Owl Carousel Arrows
 }
 
 .owl-carousel.arrow-4 .owl-nav i:hover {
-    background: #02d871;
+    background: #057a97;
     color: #fff;
-    border-color: #02d871;
+    border-color: #057a97;
 }
 
 .owl-carousel.arrow-4 .owl-prev,
@@ -1449,11 +1449,11 @@ Owl Carousel Arrows
 }
 
 .owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-    background: #02d871;
+    background: #057a97;
 }
 
 .owl-carousel.owl-theme .owl-dots .owl-dot.active span {
-    background: #02d871;
+    background: #057a97;
     width: 30px;
 }
 
@@ -1552,7 +1552,7 @@ About Us 3
 
 .iq-about3 .iq-timeline .list:before {
     content: "";
-    background-color: #02d871;
+    background-color: #057a97;
     width: 24px;
     height: 24px;
     position: absolute;
@@ -1611,7 +1611,7 @@ About Us 4
 About Us 5
 **************************************/
 .iq-about5 .about-icon {
-    background: #02d871;
+    background: #057a97;
     height: 60px;
     width: 60px;
     -webkit-border-radius: 100%;
@@ -1817,7 +1817,7 @@ Awesome About 2
     position: absolute;
     top: 40px;
     left: 10%;
-    border: 10px solid #02d871;
+    border: 10px solid #057a97;
     z-index: -1;
 }
 
@@ -1839,7 +1839,7 @@ Awesome About 2
     animation-iteration-count: infinite;
 }
 
-v@-moz-keyframes fadebounce {
+@-moz-keyframes fadebounce {
     0% {
         -moz-transform: translateY(0);
         transform: translateY(0);
@@ -1957,7 +1957,7 @@ Awesome About 3
     position: absolute;
     top: -50px;
     left: 10%;
-    border: 10px solid #02d871;
+    border: 10px solid #057a97;
     z-index: -1;
 }
 
@@ -1979,7 +1979,7 @@ Awesome About 3
     animation-iteration-count: infinite;
 }
 
-v@-moz-keyframes fadebounce {
+@-moz-keyframes fadebounce {
     0% {
         -moz-transform: translateY(0);
         transform: translateY(0);
@@ -2125,7 +2125,7 @@ Awesome About 4
 About me
 -----------------------------------------------------------------------*/
 .main-title small {
-    background: #02d871;
+    background: #057a97;
     color: #fff;
     padding: 5px 10px;
     font-size: 13px;
@@ -2184,7 +2184,7 @@ Subscribe
 }
 
 .subscribe label i {
-    color: #02d871;
+    color: #057a97;
     background: #ffffff;
     -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
@@ -2244,7 +2244,7 @@ Action Box
     content: "";
     width: 0;
     height: 0;
-    border-top: 40px solid #02d871;
+    border-top: 40px solid #057a97;
     border-left: 30px solid transparent;
     position: absolute;
     z-index: 9;
@@ -2428,7 +2428,7 @@ Clients
 }
 
 .iq-clients .iq-clients-blog ul li a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-clients .list-inline {
@@ -2436,7 +2436,7 @@ Clients
 }
 
 .iq-clients .iq-clients-blog:hover {
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
 }
 
 .iq-clients .iq-clients-blog ul li a i {
@@ -2573,7 +2573,7 @@ Event Schedule
 .appointment .contact-form .section-field i {
     position: absolute;
     left: 0;
-    color: #02d871;
+    color: #057a97;
     display: inline-block;
     width: 45px;
     height: 45px;
@@ -2606,7 +2606,7 @@ Event Schedule
 }
 
 .appointment .form-control:focus {
-    border-color: #02d871;
+    border-color: #057a97;
 }
 
 .appointment.contact-bg .button {
@@ -2621,7 +2621,7 @@ Event Schedule
 }
 
 .appointment textarea:focus {
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
 }
 
 .appointment .button {
@@ -2675,7 +2675,7 @@ Form 2
 }
 
 .iq-form2 h6 {
-    background: #02d871;
+    background: #057a97;
     display: block;
     color: #ffffff;
     font-weight: 500;
@@ -2740,7 +2740,7 @@ label:after {
 }
 
 .iq-form2 .remember-checkbox label:before {
-    border: 2px solid #02d871;
+    border: 2px solid #057a97;
     content: "";
     height: 20px;
     margin-top: 3px;
@@ -2752,7 +2752,7 @@ label:after {
     max-width: 0;
     opacity: 0.5;
     overflow: hidden;
-    color: #02d871;
+    color: #057a97;
     transition: all 0.35s;
     -webkit-transition: all 0.35s;
     -ms-transition: all 0.35s;
@@ -2883,7 +2883,7 @@ Play video 1
     position: absolute;
     text-decoration: none;
     z-index: 1;
-    color: #02d871;
+    color: #057a97;
     top: 50%;
     margin-top: -35px;
     left: 50%;
@@ -2925,7 +2925,7 @@ Play video 1
 }
 
 .iq-video1:hover i {
-    color: #02d871;
+    color: #057a97;
 }
 
 .iq-video1:hover:after {
@@ -2953,11 +2953,11 @@ Play video 1
 
     40% {
         opacity: 0.5;
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
     }
 
     100% {
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
         -webkit-transform: scale(1.5);
         opacity: 0;
     }
@@ -2970,11 +2970,11 @@ Play video 1
 
     40% {
         opacity: 0.5;
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
     }
 
     100% {
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
         -moz-transform: scale(1.5);
         opacity: 0;
     }
@@ -2987,11 +2987,11 @@ Play video 1
 
     40% {
         opacity: 0.5;
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
     }
 
     100% {
-        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #02d871, 0 0 0 10px rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1), 0 0 10px 10px #057a97, 0 0 0 10px rgba(255, 255, 255, 0.1);
         transform: scale(1.5);
         opacity: 0;
     }
@@ -3016,7 +3016,7 @@ Play video 2
 }
 
 .play-video2 .video.play a:hover {
-    color: #02d871;
+    color: #057a97;
 }
 
 /*************************************
@@ -3057,7 +3057,7 @@ Play video 3
 }
 
 .play-video3 .video-info a:hover {
-    border: 2px solid #02d871;
+    border: 2px solid #057a97;
 }
 
 .play-video3 .video-info a i {
@@ -3065,7 +3065,7 @@ Play video 3
     height: 60px;
     line-height: 60px;
     background: #ffffff;
-    color: #02d871;
+    color: #057a97;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
@@ -3078,7 +3078,7 @@ Play video 3
 }
 
 .play-video3 .video-info a:hover i {
-    background: #02d871;
+    background: #057a97;
     color: #ffffff;
 }
 
@@ -3140,13 +3140,13 @@ Working Hours
 }
 
 .iq-time-blog.dark {
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
     color: #222222;
     background: rgba(2, 216, 113, 0);
 }
 
 .iq-time-blog.dark:hover {
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
     color: #ffffff;
     background: rgba(2, 216, 113, 1.0);
 }
@@ -3186,7 +3186,7 @@ Box Layout
 }
 
 .iq-boxed.iq-home-bg {
-    background-color: #02d871;
+    background-color: #057a97;
 }
 
 .iq-boxed.iq-home-image {
@@ -3396,7 +3396,6 @@ Box Layout Responsiv
     background-position: center;
     background-size: cover;
     width: 100%;
-    s
 }
 
 .iq-error-404-5 h1 {
@@ -3640,7 +3639,7 @@ History 1
 @import url("https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans+Condensed:300");
 
 .iq-history-1 .wrapper {
-    background-color: #02d871;
+    background-color: #057a97;
     width: 100%;
     min-height: 100vh;
     height: 100%;
@@ -3806,7 +3805,7 @@ Appointment
 .iq-appointment1 .section-field.textarea textarea:focus {
     box-shadow: none;
     outline: none;
-    border: 1px solid #02d871;
+    border: 1px solid #057a97;
 }
 
 .iq-appointment1 label {
